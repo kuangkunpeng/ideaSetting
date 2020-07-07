@@ -9,5 +9,6 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="NSimSun" />
+    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
 </application>
