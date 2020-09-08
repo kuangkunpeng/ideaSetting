@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="serial Version UID" />
       <item value="Indicates a query method should be considered as modifying query as that changes the way it needs to be executed. * This annotation is only considered if used on actual query methods (either derived or manually defined through a * {@link Query} annotation). It's not applied on custom implementation methods as they already have control over the * underlying data access APIs." />
       <item value="Indicates that the persistence provider must assign * primary keys for the entity using a database identity column." />
       <item value="* Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
