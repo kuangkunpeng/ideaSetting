@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the start offset in the data." />
       <item value="her class-level annotations may be considered as identifying * a component as well, typically a special kind of component: * e.g. the {@link Repository @Repository} annotation or AspectJ's * {@link org.aspectj.lang.annotation.Aspect @Aspect} annotation." />
       <item value="Indicates that an annotated class is a &quot;component&quot;. * Such classes are considered as candidates for auto-detection * when using annotation-based configuration and classpath scanning." />
       <item value="serial Version UID" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
